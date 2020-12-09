@@ -31,31 +31,5 @@
     { "name": "Premier A/S", "sectionWidth": 195, "aspectRatio": 65, "rimDiameter": 15, "loadIndex": 91, "speedRating": "H", "isUsed": true, "isFeatured": false, "brandId": 6 },
     { "name": "Defender T + H", "sectionWidth": 195, "aspectRatio": 65, "rimDiameter": 15, "loadIndex": 91, "speedRating": "H", "isUsed": false, "isFeatured": false, "brandId": 6 },
     { "name": "P4 Fourseasons Plus", "sectionWidth": 195, "aspectRatio": 65, "rimDiameter": 15, "loadIndex": 91, "speedRating": "H", "isUsed": false, "isFeatured": false, "brandId": 6 }
-  ],
-  "wheel-brands": [
-    { "id": 1, "name": "Advanti Racing", "logoUrl": "https://cdn.discounttire.com/sys-master/images/h24/hdc/9456209068062/BRANDlogo_advanti_wheel.png" },
-    { "id": 2, "name": "MB Wheels", "logoUrl": "https://cdn.discounttire.com/sys-master/images/he1/h27/8862435115038/BRANDlogo_mb_wheel.png" },
-    { "id": 3, "name": "Redbourne Wheels", "logoUrl": "https://cdn.discounttire.com/sys-master/images/h87/h39/8890883768350/BRANDlogo_redbourne_wheel.png" },
-    { "id": 4, "name": "Kansei Wheels", "logoUrl": "https://cdn.discounttire.com/sys-master/images/h30/hac/9224538914846/BRANDlogo_kansei_wheel.png" },
-    { "id": 5, "name": "RTX Wheels", "logoUrl": "https://cdn.discounttire.com/sys-master/images/h5a/hcf/8938970447902/BRANDlogo_rtx_wheel.png" }
-  ],
-  "wheel-materials": [
-    {"id": 1, "name": "Acier" }, 
-    {"id": 2, "name": "Aluminium"}
-  ],
-  "wheel-colors": [
-    { "id": 1, "name": "Noir" },
-    { "id": 2, "name": "Gris" },
-    { "id": 3, "name": "Blanc" }
-  ],
-  "wheels": [
-    { "id": 1, "name": "Storm S1", "diameter": 15, "width": 7, "isUsed": false, "isFeatured": true, "brandId": 1, "materialId": 1, "colorId": null },
-    { "id": 1, "name": "Hydra", "diameter": 18, "width": 8, "isUsed": false, "isFeatured": false, "brandId": 1, "materialId": null, "colorId": 2 },
-    { "id": 1, "name": "MB Wheels Crux", "diameter": 14, "width": 5.5, "isUsed": false, "isFeatured": true, "brandId": 2, "materialId": 2, "colorId": 2 },
-    { "id": 1, "name": "Hercules", "diameter": 22, "width": 10, "isUsed": true, "isFeatured": true, "brandId": 3, "materialId": 1, "colorId": 1 },
-    { "id": 1, "name": "Hercules", "diameter": 18, "width": 9, "isUsed": false, "isFeatured": false, "brandId": 4, "materialId": 2, "colorId": 3 },
-    { "id": 1, "name": "Twist", "diameter": 17, "width": 7, "isUsed": false, "isFeatured": false, "brandId": 5, "materialId": 2, "colorId": 2 },
-    { "id": 1, "name": "Black Widow", "diameter": 16, "width": 7, "isUsed": false, "isFeatured": true, "brandId": 5, "materialId": 2, "colorId": 1 },
-    { "id": 1, "name": "Black Widow", "diameter": 19, "width": 8.5, "isUsed": true, "isFeatured": false, "brandId": 5, "materialId": 1, "colorId": 1 }
   ]
 }
